@@ -1,0 +1,7 @@
+C:\repos\DoudChallengeLooping\DoudChallengeLooping\bin\Debug\DoudChallengeLooping.exe.config
+C:\repos\DoudChallengeLooping\DoudChallengeLooping\bin\Debug\DoudChallengeLooping.exe
+C:\repos\DoudChallengeLooping\DoudChallengeLooping\bin\Debug\DoudChallengeLooping.pdb
+C:\repos\DoudChallengeLooping\DoudChallengeLooping\obj\Debug\DoudChallengeLooping.csprojAssemblyReference.cache
+C:\repos\DoudChallengeLooping\DoudChallengeLooping\obj\Debug\DoudChallengeLooping.csproj.CoreCompileInputs.cache
+C:\repos\DoudChallengeLooping\DoudChallengeLooping\obj\Debug\DoudChallengeLooping.exe
+C:\repos\DoudChallengeLooping\DoudChallengeLooping\obj\Debug\DoudChallengeLooping.pdb
